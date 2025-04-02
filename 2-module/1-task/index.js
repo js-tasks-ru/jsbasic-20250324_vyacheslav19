@@ -8,7 +8,7 @@ function sumSalary(salaries) {
   }
   return sum_number;
   
-}
+};
 let salaries = {
   John: 1000,
   Ann: 1600,
